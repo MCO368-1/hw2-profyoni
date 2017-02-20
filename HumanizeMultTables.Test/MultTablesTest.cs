@@ -5,7 +5,7 @@ using NUnit.Framework;
 
 namespace HumanizeMultTables.Test
 {
-    public class MultTablesTest
+    public class MultTablesTest 
     {
         [Test]
         public void MultiplierRowWithHeader()
