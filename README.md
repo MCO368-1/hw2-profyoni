@@ -18,5 +18,5 @@ e.g. `MultiplierRow(5, 1, 4)` will return the 5th row in a mult table starting a
   
   Add your travis link here
 
-
+[![Build Status](https://travis-ci.org/profyoni/368_2_HumanizeMultTables.svg?branch=master)](https://travis-ci.org/profyoni/368_2_HumanizeMultTables)
 [![codecov](https://codecov.io/gh/profyoni/368_2_HumanizeMultTables/branch/master/graph/badge.svg)](https://codecov.io/gh/profyoni/368_2_HumanizeMultTables)
